@@ -1,0 +1,21 @@
+.cont-header {
+    margin-top: -1px;
+    margin: auto;
+    max-width: 375px;
+    max-height: 667px;
+    background-color: rgba(0, 41, 132, 1);
+}
+
+.cont-header ul {
+    list-style: none;
+}
+
+.cont-header ul li {
+    display: inline-block;
+    padding-right: 5%;
+    color: white;
+}
+
+.back-icon {
+    margin-top: 5px;
+}
